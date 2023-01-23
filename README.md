@@ -23,7 +23,7 @@ I tried my best to make the core features to live on event without modification 
 ## TODOs
 
 - [ ] Support drag-n-drop text easily
-- [ ] Support drag-n-drop with different directions using dedicated search engine to search
+- [x] Support drag-n-drop with different directions using dedicated search engine to search
 
 > I'd love to hear voice from you what you want and what's your issue, please feel free to tell me here
 > [issues](https://github.com/universeroc/super-drag/issues)
