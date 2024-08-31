@@ -1,5 +1,3 @@
-# Google Chrome's Super Drag
-
 <img src="./440x280.png" alt="super drag banner" />
 
 Ratings: **★ 4.31** users: **21784**
@@ -27,3 +25,13 @@ I tried my best to make the core features to live on event without modification 
 
 > I'd love to hear voice from you what you want and what's your issue, please feel free to tell me here
 > [issues](https://github.com/universeroc/super-drag/issues)
+
+## Donations
+
+<u>If `Google Chrome's Super Drag` helps you in your daily life or work, you can donate me by WeChat :)</u>
+
+![WXDonationCode](https://github.com/user-attachments/assets/f32e4514-9416-4623-aef4-232a9f68b561)
+
+> **Your reward is an affirmation and encouragement.**
+
+
