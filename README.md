@@ -1,6 +1,6 @@
 <img src="./440x280.png" alt="super drag banner" />
 
-Ratings: **★ 4.31** users: **21784**
+Ratings: **★ 4.25** users: **37817**
 
 [https://chrome.google.com/webstore/detail/dlknjglebgomjjfaijjnebecgjbfjihk](https://chrome.google.com/webstore/detail/dlknjglebgomjjfaijjnebecgjbfjihk)
 
